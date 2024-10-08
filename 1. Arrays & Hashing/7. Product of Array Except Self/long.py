@@ -1,6 +1,9 @@
 # Runtime 353ms
 # Beats 30.10%
 
+# Memory 33.21MB
+# Beats 5.08%
+
 class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
         # ----------------------> l2r
