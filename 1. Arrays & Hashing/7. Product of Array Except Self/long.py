@@ -14,20 +14,13 @@ class Solution:
         # Mulplication
         # [bcd   acd   abd   abc]
 
-        l2r, r2l = [], deque([])
+        l2r, r2l = [1], deque([1])
         n = len(nums)
-        for i in range(n):
-            if i == 0:
-                l2r.append(1)
-                r2l.append(1)
-            else:
-                l2r.append(nums[i-1] * l2r[i-1])
-                r2l.appendleft(nums[n-i] * r2l[0]) # r2l[0]: always get the lastest element
+        for i in range(1, n):
+            l2r.append(nums[i-1] * l2r[i-1])
+            r2l.appendleft(nums[n-i] * r2l[0]) # r2l[0]: always get the lastest element
         r2l = list(r2l)
 
-        res = []
-        for i in range(n):
-            res.append(l2r[i] * r2l[i])
+        res = [l2r[i] * r2l[i] for i in range(n)]
 
         return res
-
