@@ -1,6 +1,9 @@
 # Runtime 280ms
 # Beats 28.61%
 
+# Memory 25.91MB
+# Beats 37.11%
+
 class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
         prefix = [1] * len(nums)
