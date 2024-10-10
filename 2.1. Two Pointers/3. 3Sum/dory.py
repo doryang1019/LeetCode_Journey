@@ -21,6 +21,7 @@ class Solution:
                     # if (temp not in result):
                     #     result.append([sort_nums[i], sort_nums[low], sort_nums[high]])
                     result.append([sort_nums[i], sort_nums[low], sort_nums[high]])
+                    # detect and skip to prevent duplicate
                     while low < high and sort_nums[low] == sort_nums[low+1]:
                         # keep skipping
                         low += 1
