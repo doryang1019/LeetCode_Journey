@@ -1,6 +1,6 @@
 # LeetCode Journey
 
-Welcome to my **LeetCode Journey**! This repository contains solutions to LeetCode problems using Python. The problems are organized based on the data structure and algorithm categories, as depicted in the roadmap below:
+Welcome to **LeetCode Journey**! This repository contains solutions to LeetCode problems using Python. The problems are organized based on the data structure and algorithm categories, as depicted in the roadmap below:
 
 ## Roadmap Overview
 
