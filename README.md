@@ -18,7 +18,7 @@ Welcome to my **LeetCode Journey**! This repository contains solutions to LeetCo
 - **1-D DP** - 1-D Dynamic Programming problems.
 - **Intervals**
 - **Greedy**
-- ** Graphs** - Advanced graph algorithms.
+- **Advanced Graphs** - Advanced graph algorithms.
 - **2-D DP** - 2-D Dynamic Programming problems.
 - **Bit Manipulation** - Problems involving bit manipulation.
 - **Math & Geometry** - Mathematical and geometry-based problems.
