@@ -1,8 +1,8 @@
-# Runtime 197ms
-# Beats 23.45%
+# Runtime 189ms
+# Beats 69.19%
 
-# Memory 18.25MB
-# Beats 7.96%
+# Memory 18.05MB
+# Beats 75.82%
 
 class Solution:
     def search(self, nums: List[int], target: int) -> int:
