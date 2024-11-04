@@ -19,7 +19,7 @@ class Solution:
                 rightWindow = leftWindow # Reset the sliding window
             
             rightWindow += 1
-            if rightWindow == len(s): # End of the string (for the last substring)
+            if rightWindow == len(s): # End of the string (for the last substring), for examle "au"
                 longestSubstring = max(longestSubstring, rightWindow - leftWindow)
 
         return longestSubstring
