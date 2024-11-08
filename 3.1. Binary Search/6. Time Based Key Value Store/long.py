@@ -38,6 +38,3 @@ class TimeMap:
                     if start > len(values) - 1 or values[start][1] > timestamp:
                         return midValue
         return ''
-            
-
-        
