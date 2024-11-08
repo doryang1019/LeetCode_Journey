@@ -4,12 +4,12 @@ Welcome to **LeetCode Journey**! This repository contains solutions to LeetCode 
 
 ## Roadmap Overview
 
-- **Arrays & Hashing** - Problems related to arrays and hashing techniques.
-- **Two Pointers** - Problems that can be solved using the two-pointer technique.
-- **Stack** - Problems focused on stack data structure.
-- **Binary Search** - Problems that involve binary search algorithms.
-- **Sliding Window** - Problems solved using sliding window approach.
-- **Linked List** - Problems based on linked lists.
+- **1. Arrays & Hashing** - Problems related to arrays and hashing techniques.
+- **2.1. Two Pointers** - Problems that can be solved using the two-pointer technique.
+- **2.2. Stack** - Problems focused on stack data structure.
+- **3.1. Binary Search** - Problems that involve binary search algorithms.
+- **3.2. Sliding Window** - Problems solved using sliding window approach.
+- **3.3. Linked List** - Problems based on linked lists.
 - **Trees** - Tree-related problems.
 - **Tries**
 - **Backtracking** - Backtracking problems.
