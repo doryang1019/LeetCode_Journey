@@ -12,6 +12,7 @@ class Solution:
                 characterDict[currentCharacter] = characterDict.get(currentCharacter, 0) + 1
                 
                 maxOccurrence = max(characterDict.values())
+                # Current window size - most frequent character > k -> window is invalid
                 if rightWindow - leftWindow + 1 - maxOccurrence > k:
                     longestSubstring = max(longestSubstring, rightWindow - leftWindow)
                     leftWindow += 1
