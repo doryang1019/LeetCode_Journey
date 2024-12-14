@@ -10,7 +10,7 @@ Welcome to **LeetCode Journey**! This repository contains solutions to LeetCode 
 - **3.1. Binary Search** - Problems that involve binary search algorithms.
 - **3.2. Sliding Window** - Problems solved using sliding window approach.
 - **3.3. Linked List** - Problems based on linked lists.
-- **Trees** - Tree-related problems.
+- **4. Trees** - Tree-related problems.
 - **Tries**
 - **Backtracking** - Backtracking problems.
 - **Heap / Priority Queue**
