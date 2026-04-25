@@ -15,7 +15,7 @@ The goal isn't just to solve problems, but to build **intuition** for recognizin
 - **4. Trees** — Tree-related problems including binary trees, BSTs, and traversal techniques (DFS, BFS).
 - **5.1. Tries** — Prefix tree problems for efficient string searching, autocomplete, and word validation.
 - **5.2. Backtracking** — Backtracking problems.
-- **6.1. Heap / Priority Queue** — Problems using min/max heaps for top-K elements, median finding, and task scheduling.
+- **6.1. Heap / Priority Queue** — Using min/max heaps for top-K elements, median finding, and task scheduling.
 - **6.2. Graphs** — Basic graph algorithms.
 - **6.3. 1-D DP** — 1-D Dynamic Programming problems.
 - **7.1. Intervals** — Problems involving merging, inserting, and scheduling overlapping intervals.
