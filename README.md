@@ -17,11 +17,11 @@ The goal isn't just to solve problems, but to build **intuition** for recognizin
 - **5.2. Backtracking** — Backtracking problems.
 - **6.1. Heap / Priority Queue** — Using min/max heaps for top-K elements, median finding, and task scheduling.
 - **6.2. Graphs** — Basic graph algorithms.
-- **6.3. 1-D DP** — 1-D Dynamic Programming problems.
+- **6.3. 1-D Dynamic Programming** — 1-D Dynamic Programming problems.
 - **7.1. Intervals** — Problems involving merging, inserting, and scheduling overlapping intervals.
 - **7.2. Greedy** — Problems where locally optimal choices at each step lead to a globally optimal solution.
 - **7.3. Advanced Graphs** — Advanced graph algorithms.
-- **7.4. 2-D DP** — 2-D Dynamic Programming problems.
+- **7.4. 2-D Dynamic Programming** — 2-D Dynamic Programming problems.
 - **7.5. Bit Manipulation** — Problems involving bit manipulation.
 - **8. Math & Geometry** — Mathematical and geometry-based problems.
 
@@ -39,11 +39,11 @@ graph TD
     G --> I[Backtracking]
     H --> J[Heap / Priority Queue]
     I --> K[Graphs]
-    I --> L[1-D DP]
+    I --> L[1-D Dynamic Programming]
     J --> M[Intervals]
     J --> N[Greedy]
     K --> O[Advanced Graphs]
-    K --> P[2-D DP]
+    K --> P[2-D Dynamic Programming]
     K --> R[Math & Geometry]
     L --> P
     L --> Q[Bit Manipulation]
