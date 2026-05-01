@@ -1,6 +1,6 @@
 # LeetCode Journey
 
-Welcome to **LeetCode Journey**! This repository contains solutions to LeetCode problems. The problems are organized based on the data structure and algorithm categories, following the [NeetCode Roadmap](https://neetcode.io/roadmap) — progressing from foundational concepts like arrays and hashing to advanced techniques like dynamic programming and graph theory.
+Welcome to **LeetCode Journey**! This repository contains solutions to LeetCode problems, implemented in Python, C#, and Java. The problems are organized based on the data structure and algorithm categories, following the [NeetCode Roadmap](https://neetcode.io/roadmap) — progressing from foundational concepts like arrays and hashing to advanced techniques like dynamic programming and graph theory.
 
 The goal isn't just to solve problems, but to build **intuition** for recognizing patterns and choosing the right approach.
 
