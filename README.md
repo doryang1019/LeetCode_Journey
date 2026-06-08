@@ -27,6 +27,8 @@ The goal isn't just to solve problems, but to build **intuition** for recognizin
 | **7.5** | **Bit Manipulation**      | Bitwise operations |
 | **8** | **Math & Geometry**         | Mathematical and geometry problems |
 
+#### Roadmap:
+
 ```mermaid
 graph TD
     A[Arrays & Hashing] --> B[Two Pointers]
